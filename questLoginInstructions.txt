@@ -1,0 +1,36 @@
+Mac instructions
+1.	Open Terminal (Applications>Utilities>Terminal)
+2.	Replace the sample UserID with your temporary UserID or your NU NetID (if you have a Quest allocation) in the line of code below and run the line:
+ssh -X sampleUserID@quest.northwestern.edu
+3.	It will ask you for your password, which you will enter and press Return/Enter.
+
+PC option 1
+1.	Install the PuTTY ssh client: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+2.	Use the following information to set up your connection:
+Hostname : quest.northwestern.edu
+Username : your temporary UserID or NetID
+Password : your temporary password or NetID password
+
+PC option 2
+1.	Log onto the Northwestern VPN
+2.	Go to http://quest.northwestern.edu:3000/
+3.	Log in using your temporary UserID and password or NetID and 
+4.	Click Launch Session
+5.	Choose Gnome Terminal, then Launch
+Note about this option: This allows you to access Quest online without installing anything, but you have to be logged onto the NU VPN and copy/paste is not easy.  
+How to copy/paste from your computer/the web into Gnome Terminal on FastX:
+1.	Copy the text on your computer how you normally would
+2.	In FastX, at the top right of the terminal there is a white line that will turn into a little menu when you hover over it
+3.	Click the Copy/Paste icon on that white menu
+4.	Paste you text into that Clipboard
+5.	Click Send to Remote
+6.	Click back in the terminal, then right-click and choose Paste
+
+
+After you are logged in
+In class, I will give you some commands to set up your home directory with the files we’re using today, but if you want to get a headstart, here are the four lines of code you will need to run on Quest to pull in the files:
+
+module load python/anaconda3
+module load parallel
+wget https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/questFiles.txt
+parallel wget {} :::: questFiles.txt
