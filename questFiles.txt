@@ -1,6 +1,7 @@
 https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/add100.py
 https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/argv2.py
 https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/sortEmailsArgv.py
+https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/sortEmailsAppend.py
 https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/email_addresses.csv
 https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/email_addresses2.csv
 https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/email_addresses3.csv
