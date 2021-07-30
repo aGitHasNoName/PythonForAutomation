@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/add100.py
+https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/PIPEargv2.py
+https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/PIPEsortEmails.py
+https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/number.txt
+https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/email_addresses4.pdf
+https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/email_addresses5.pdf
