@@ -1,7 +1,7 @@
 https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/add100.py
 https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/argv2.py
 https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/sortEmailsArgv.py
-https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/sortEmailsAppend.py
+https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/sortEmailsArguments.py
 https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/email_addresses.csv
 https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/email_addresses2.csv
 https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/email_addresses3.csv
@@ -9,3 +9,9 @@ https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/words.t
 https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/numbers.txt
 https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/email_files.txt
 https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/email_output_files.txt
+https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/add100.py
+https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/PIPEargv2.py
+https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/PIPEsortEmails.py
+https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/number.txt
+https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/email_addresses4.pdf
+https://raw.githubusercontent.com/aGitHasNoName/PythonForAutomation/main/email_addresses5.pdf

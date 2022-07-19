@@ -10,9 +10,6 @@ The code assumes that a person would only have one email address with each domai
 The code also removes duplicate email addresses.
 
 The notebook outputs a new csv file.
-
-sys.argv[1] is the input file (or path to it)
-sys.argv[2] is the output file (or path to it)
 '''
 
 import sys
